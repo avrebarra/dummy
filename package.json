@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/avrebarra/dummy/issues"
   },
-  "homepage": "https://github.com/avrebarra/dummy#readme"
+  "homepage": "https://github.com/avrebarra/dummy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "random": "^2.2.0"
+  }
 }
